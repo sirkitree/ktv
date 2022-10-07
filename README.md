@@ -1,40 +1,34 @@
 # King Technology Ventures
-King Technology Ventures(KTV)* is a program designed to benefit society by promoting the transformation of cutting-edge technological research into practical and marketable devices in general and the healthcare community in particular. KTV represents a substantial commitment on the part of the Foundation to support basic socially beneficial research, product prototype development, and the initial start-up requirements of the entrepreneurial business community.
+KTV was founded in 2020 in honor of Dr. Y King Liu. Dr. Liu founded both the University of Northern California (UNC) and the UNC foundation in the mid 1990’s. KTV continues Dr. Liu’s commitment to quality research and product prototype development inspired by a common vision to fulfill an unmet clinical need.
 
-KTV has a 100% success rate in the incubation of biomedical device companies from concept, to initial prototype development, to company incorporation, and company independence. These companies are: 
+## Our Mission 
+![Bench pic](https://user-images.githubusercontent.com/28543/194637200-3ddbd35c-b801-413d-874c-bba82ecaab5e.jpg)
+![Bench Tester 050721](https://user-images.githubusercontent.com/28543/194637579-63da3dab-7274-4ba0-ad9d-8d6aac75d992.jpg)
 
-## SAPHEON
-Sapheon develops devices and surgical methods for the treatment of venous reflux disease that increase procedure effectiveness, decrease cost, reduces pain, and can be performed in an outpatient setting quickly with short patient recovery period. Sapheon was purchased by Covidian in 2014 which subsequently was purchased by Medtronic in 2015. 
+KTV’s mission is to identify and solve challenging unmet clinical needs that assist the physician operator and benefit the patient.
 
-## OSSEON THERAPEUTICS
-Osseon develops medical devices for minimally invasive treatment of vertebral compression fractures. Osseon was purchased by Merit Medical Systems, Inc. in 2017. 
+## Experience 
+![Animal lab](https://user-images.githubusercontent.com/28543/194637388-9f4378c1-df9a-4847-b220-430695702baf.jpg)
+![animal lab1](https://user-images.githubusercontent.com/28543/194637402-d00b8ae4-a8dd-46c3-ac9f-cb3fdee9e7c2.jpg)
 
----
+KTV’s first project Heartchord Medical was started mid 2020 and was acquired by a major strategic April 2022 following two years of development. KTV is self-funded and uses a disciplined approach of focusing on one project at a time to ensure success. KTV has initiated their second project 
+August 2022 which looks promising in fulfilling another unmet clinical need.
 
-# KTV Advisory Council
-The KTV program utilizes the expertise of an Advisory Council to make decisions regarding KTV activities. The Advisory Council members are:
+## The KTV Team 
+![KTV Team](https://user-images.githubusercontent.com/28543/194637254-14857de8-a119-498e-acc3-8e9726c6a386.jpg)
 
-- Doug Clark – who has 30+ years of highly successful Sales and Sales Management experience with high growth Medical Device companies.
+The team shares a common vision to fulfill unmet needs currently challenging physicians.
 
-- Jan Lau – a mechanical engineer with over 25 years of R&D experience specializing in medical devices. He’s held senior positions in startups and large corporations with increasing responsibilities from engineer to founder. He currently holds a dozen patents and patent pendings.
+**Jan Lau** – Inventor &amp; Founder &amp; Board Member
+30+ years of successful Medtech experience with 18 published patents. Companies include Medtronic, AVE, Mitralife, Osseon, and Apple.Medical. Most recently founder and owner of Jade Vascular - Providing engineering services, such as R&amp;D and product design for the medical device industry.
 
-- Paul Dunn, PhD – provides oversight between UNC Foundation and KTV.
+**Doug Clark** – Founder &amp; Board Member
+30+ years of successful Medical device Sales leadership experience with Large, Midsize and start up companies. Companies include Medtronic, Covidien, EV3, SilkRoad Medical, Foxhollow, Osseon and Scimed.
 
----
+**Paul Dunn Ph.D.** – Founder &amp; Board Member
+30+ years of successful Education and Academic experience with 4 publications. Experience includes University of California, Santa Barbara, University of Northern California, Petaluma, Sonoma College and Western Institute of Science and Health. Most recently Executive Director of University of Northern California foundation, Petaluma, CA.
 
-# Program in ‘Concept to Prototype’ Development for Entrepreneurs
-A central focus of KTV sponsored research is prototype development linked to the biomedical, technology, and engineering fields. Entrepreneurs looking for assistance in transforming an innovative idea from initial concept to prototype development are welcome to submit proposals to KTV. These proposals are evaluated by a panel of qualified reviewers, using the following criteria:
+**Christian Spies, M.D** – Chief Medical Officer &amp; Board Member
+14+ years of practice in interventional cardiology and structural heart procedures. As co-director of the Bay Area Structural Heart Program (BASH) at Sutter Health, he participates in over 10 research trials and offers quaternary structural heart care. He travels nationally and internationally as a proctor and lecturer. Academically, he has published over 100 abstracts, articles and book chapters.
 
-- Potential viability of the product
-- Soundness of the applicant's preliminary plan for the technical development of the product
-- Ability of KTV to assist the applicant
-- Personal qualifications of the applicant(s). 
-- Proposal Form (link to KTV Proposal Form) 
-
-Proposals should be addressed to:
-
-UNC Foundation: KTV
-1129 Industrial Ave, Suite 207
-Petaluma, CA 94952
- 
-* Formerly the Science and Technology Innovation Center (STIC) at the University of Northern California.
+## Contact Us 
